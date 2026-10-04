@@ -1,6 +1,6 @@
 # Filippo Marcatili
 
-> I want to make human-machine interaction seemless.
+> I want to make human-machine interaction seamless.
 
 MSc student in **Human-Centered AI** at [DTU](https://www.dtu.dk), specializing in **Visual Computing**.
 Before that, a B.Sc. in Computer, Communications and Electronic Engineering at the University of Trento,
